@@ -1,1 +1,1 @@
-# laba-7
+laba №7 (only task 1)
